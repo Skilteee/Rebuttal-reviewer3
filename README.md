@@ -8,7 +8,7 @@
 | $\theta_0$ (DiZO) | 92.5  | 55.7%     | 68.2 | 62.3%     | 69.0  | 65.4%     |
 
 
-**Table 2.** Layer-wise distance gap of fine-tuning OPT-2.7B at different iteration (using the first Value layer in attention module as an example).
+**Table 2.** Layer-wise distance gap of fine-tuning OPT-2.7B at different iteration (using the Value layer in the first attention module as an example).
 
 | Iter. | 400   | 800  | 1200 | 1600 | 2000 | 2400 | 2800 | 3200 |
 |-------|-------|------|------|------|------|------|------|------|
